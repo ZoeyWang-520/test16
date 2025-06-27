@@ -12,4 +12,4 @@
 ```
 python a.py
 ```
-gitgub
+github
